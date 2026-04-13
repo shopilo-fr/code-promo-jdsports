@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-jdsports",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo JD Sports depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-jd-sports",
+    "bon-de-reduction-jd-sports",
+    "coupon-jd-sports",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/jdsports.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-jdsports.git"
+  }
+}
